@@ -23,8 +23,8 @@
 
 ### 項目展示 :
 **首頁**
-![首頁]([C:\Users\User\Desktop\未命名.png](https://github.com/ShenDing1125/my-book-store/blob/main/github-img/首頁_1.png))
-![首頁]([C:\Users\User\Desktop\未命名.png](https://github.com/ShenDing1125/my-book-store/blob/main/github-img/首頁_2.png))
+![首頁](https://github.com/ShenDing1125/my-book-store/blob/main/github-img/首頁_1.png)
+![首頁](https://github.com/ShenDing1125/my-book-store/blob/main/github-img/首頁_2.png)
 
 ### 參考來源:
 
