@@ -46,6 +46,7 @@ class HomeService {
 
   public static async getGuessBookList(num: number) {
     HomeService.guessBookList.value = []
+    const result: BookItemListTypes[] = []
 
     await HomeService.searchStore.findAllHistoryKeyWords()
     const historyKeyWordLength = HomeService.searchStoreRefs.allHistoryKeyWordList.value.length
@@ -58,8 +59,11 @@ class HomeService {
         const bookList = await HomeService.searchStore.findBookItemListByHistoryKeyWord(
           allHistoryKeyWords[keyWord].historyKeyWord
         )
-        HomeService.guessBookList.value.push(HomeService.getOneFromBookList(bookList))
+        if (bookList.length !== 0) {
+          result.push(HomeService.getOneFromBookList(bookList))
+        }
       }
+      HomeService.guessBookList.value.push(...result)
     }
   }
 
