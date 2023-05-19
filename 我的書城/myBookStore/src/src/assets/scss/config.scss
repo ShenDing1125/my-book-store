@@ -1,0 +1,30 @@
+/*
+    樣式規範表
+*/
+// 主要
+$color-main-light: #d4a056 !default;
+$color-main-heavy: #ff8c11 !default;
+
+// 產品
+$color-product-light: #a3a3a3 !default;
+$color-product-heavy: #000000 !default;
+$color-product-mark: #ff0000 !default;
+
+// 圖標
+$font-icon-small: 0.2rem;
+$font-icon-large: 0.25rem;
+$color-icon-main: #88807d !default;
+$color-icon-add: #66cca4 !default;
+$color-icon-del: #ff0000 !default;
+
+// 背景
+$color-background-light: #ffffff !default;
+$color-background-middle: #f5f5f5 !default;
+$color-background-heavy: #c3c3c3 !default;
+
+// 陰影
+$color-shadow: rgba(
+  $color: #000000,
+  $alpha: 0.5,
+) !default;
+$color-fade: #18181b !default;

@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true, 
+  "singleQuote": false,
+  "semi": true,
+  "printWidth": 120,
+  "tabWidth": 2
+}

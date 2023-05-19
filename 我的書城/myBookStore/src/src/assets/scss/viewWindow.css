@@ -1,0 +1,12 @@
+/* 540px */
+:root {
+  font-size: 18.5185185185vw;
+  height: 100vh;
+}
+
+body {
+  display: block;
+  margin: 0;
+  font-size: 0.16rem;
+  height: 100vh;
+}/*# sourceMappingURL=viewWindow.css.map */
