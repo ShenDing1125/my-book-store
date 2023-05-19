@@ -56,12 +56,12 @@
 ## 404
 ![404](https://github.com/ShenDing1125/my-book-store/blob/main/github-img/404.png) 
 
-### 項目資訊 :
-## 帳密
+## 項目資訊 :
+### 帳密
 - admin
 - 123
 
-## 展示影片
+### 展示影片
 https://drive.google.com/file/d/1b2fjukwG7f4JMlGDdCgiID4DXnuse9XE/view?usp=share_link
 
 ### 書本資訊 & 圖片 參考來源:
